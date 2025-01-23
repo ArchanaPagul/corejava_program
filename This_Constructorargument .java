@@ -14,7 +14,7 @@ class ThisArgument {
     }
 }
 
-public class This_ConstructorArgument {
+public class This_Constructorargument {
 
     int c = 1;  // Instance variable 'c' 
     // Constructor of This_Constructorargument
@@ -26,6 +26,6 @@ public class This_ConstructorArgument {
 
     public static void main(String[] args) {
         // Creating an instance of This_Constructorargument, which triggers constructor execution
-        This_ConstructorArgument obj = new This_ConstructorArgument ();
+        This_Constructorargument obj = new This_Constructorargument ();
     }
 }
