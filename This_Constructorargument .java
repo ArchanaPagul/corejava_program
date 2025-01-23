@@ -14,11 +14,9 @@ class ThisArgument {
     }
 }
 
-// Main class demonstrating the use of 'this' keyword in constructor call
 public class This_ConstructorArgument {
 
     int c = 1;  // Instance variable 'c' 
-
     // Constructor of This_Constructorargument
     This() {
         // Passing 'this' keyword to ThisArgument constructor
@@ -27,7 +25,6 @@ public class This_ConstructorArgument {
     }
 
     public static void main(String[] args) {
-
         // Creating an instance of This_Constructorargument, which triggers constructor execution
         This_ConstructorArgument obj = new This_ConstructorArgument ();
     }
