@@ -1,3 +1,5 @@
+/*Write a Java Program  to pass  this keyword as argument in the constructor call.*/
+
 // Class to demonstrate passing 'this' as an argument in constructor
 class ThisArgument {
     // Instance variable to store reference of This_Constructorargument
@@ -29,3 +31,9 @@ public class This_Constructorargument {
         This_Constructorargument obj = new This_Constructorargument ();
     }
 }
+
+
+/*Output
+
+Count variable value:1
+*/
