@@ -1,3 +1,5 @@
+/*Write java program to invoke current class method using this keyword */
+
 class Demo {
     
     // Method to display a message
@@ -18,4 +20,11 @@ public class ThisKeyword{
         obj.invokeMethod();     // Calling invokeMethod to trigger display method
     }
 }
+
+/*Output
+
+Invoking the display method using 'this' keyword...
+Display method is called.
+*/
+
 
