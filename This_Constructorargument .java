@@ -18,7 +18,7 @@ public class This_Constructorargument {
 
     int c = 1;  // Instance variable 'c' 
     // Constructor of This_Constructorargument
-    This() {
+    ThisArgument() {
         // Passing 'this' keyword to ThisArgument constructor
         ThisArgument obj = new ThisArgument(this);
         obj.show();  // Calling show() method to print the value of 'c'
