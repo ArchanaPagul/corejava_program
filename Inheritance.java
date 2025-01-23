@@ -1,3 +1,7 @@
+/*Create a parent class called "Vehicle" with attributes such as brand,model, year, and a method called "drive". Create a 
+child class called "Car" that inherits from Vehicle and has an additional attribute called "color" and a method called "honk". 
+Create an object of the Car class and call both the "drive" and "honk" methods. */
+
 // Parent class Vehicle
 class Vehicle {
     // Attributes of the Vehicle class
@@ -39,3 +43,10 @@ public class Inheritance{
         myCar.honk();
     }
 }
+
+/*Output
+
+The Toyota Corolla is now driving.
+The Red Toyota Corolla honks its horn!
+
+*/
