@@ -1,10 +1,10 @@
 // Class to demonstrate passing 'this' as an argument in constructor
 class ThisArgument {
     // Instance variable to store reference of This_Constructorargument
-    This_ConstructorArgument var;
+    This_Constructorargument var;
 
     // Constructor accepting This_Constructorargument object as a parameter
-    ThisArgumentThis_ConstructorArgument var) {
+    ThisArgumentThis_Constructorargument var) {
         this.var = var;  // Assigning the passed object to the instance variable
     }
 
