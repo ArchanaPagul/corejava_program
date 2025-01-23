@@ -1,3 +1,7 @@
+/*Create a parent class called "Person" with attributes such as name, age, and a method called "speak". Create a child class
+called "Student" that inherits from Person and has an additional attribute called "grade" and a method called"study". Create 
+an object of the Student class and call both the "speak" and "study" methods. */
+
 // Parent class Person
 class Person {
     // Attributes and method of the Person class
@@ -37,3 +41,11 @@ public class Single_Inheritance{
         student.study();
     }
 }
+
+/*Output
+
+Alice says: Hello!
+Alice is studying for grade: A
+*/
+
+
